@@ -9,4 +9,5 @@ import { UserController } from './logical/user/user.controller';
   controllers: [AppController, UserController],
   providers: [AppService, UserService],
 })
+
 export class AppModule {}

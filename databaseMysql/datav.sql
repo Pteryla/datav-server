@@ -22,7 +22,6 @@ create table datav_user_table
 
   DEFAULT CHARSET = utf8 COMMENT = 'datav用户表';
 
-
 -- 项目表
 drop table if exists datav_projects_table;
 create table datav_projects_table
